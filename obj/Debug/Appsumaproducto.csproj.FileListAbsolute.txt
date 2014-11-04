@@ -1,0 +1,5 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumaproducto\Appsumaproducto\bin\Debug\Appsumaproducto.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumaproducto\Appsumaproducto\bin\Debug\Appsumaproducto.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumaproducto\Appsumaproducto\bin\Debug\Appsumaproducto.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumaproducto\Appsumaproducto\obj\Debug\Appsumaproducto.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumaproducto\Appsumaproducto\obj\Debug\Appsumaproducto.pdb
